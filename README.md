@@ -1,4 +1,4 @@
 # Portfolio
 Live link - https://my-portfolio-tejas.netlify.app/
 
-![portfolio-image] (./public/images/readme.png)
+![portfolio-image] (https://raw.githubusercontent.com/TejasGowda713/Portfolio/main/public/images/readme.png)
