@@ -51,16 +51,16 @@
     ],
     "work": [
       {
-        "company": "Xon Labs",
-        "title": "Machine Learning Intern",
-        "years": "August 2020 - September 2020",
-        "description": "Built a Machine Learning Model to perform Sentiment Analysis by fetching the tweets directly from Twitter ."
-      },
-      {
         "company": "Apisero",
         "title": "Software Engineer",
         "years": "July 2021 - Present ",
         "description": "Build effecient flows for mule application .Develop API that supports various application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards."
+      },
+      {
+        "company": "Xon Labs",
+        "title": "Machine Learning Intern",
+        "years": "August 2020 - September 2020",
+        "description": "Built a Machine Learning Model to perform Sentiment Analysis by fetching the tweets directly from Twitter ."
       }
     ],
     "skills": [
