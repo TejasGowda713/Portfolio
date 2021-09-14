@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name": "Tejas Gowda S",
+    "occupation": "Software Engineer",
+    "description": "I work smart, not hard!",
+    "image": "tg.jpg",
+    "bio": "Hi there! I am Tejas! a Computer Science Graduate (8.04 GPA) , with 4 months of work experience. Aiming to leverage a proven knowledge of programming application development, and AI development skills to successfully fill the Software Developer role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals .",
+    "contactmessage": "Get in touch with me!",
+    "email": "tejasgowda713@gmail.com",
+    "phone": "+91 8618270294",
+    "address": {
+      "street": "#26/8, 9th main Kanakpura main road , Yelchenahalli",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560078"
+    },
+    "website": "https://drive.google.com/file/d/1lJ5syRrfr-3UXsvO1C9wscwZqlTasSfu/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1lJ5syRrfr-3UXsvO1C9wscwZqlTasSfu/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tejas.gowda.37669/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tejas-gowda-s-647503149/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tejas_gowda_s/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/TejasGowda713",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Technical Skill Proficiency",
+    "education": [
+      {
+        "school": "Jyothy Institute of Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Xon Labs",
+        "title": "Machine Learning Intern",
+        "years": "August 2020 - September 2020",
+        "description": "Built a Machine Learning Model to perform Sentiment Analysis by fetching the tweets directly from Twitter ."
+      },
+      {
+        "company": "Apisero",
+        "title": "Software Engineer",
+        "years": "July 2021 - Present ",
+        "description": "Build effecient flows for mule application .Develop API that supports various application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Data Science",
+        "level": "90%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "70%"
+      },
+      {
+        "name": "Mulesoft",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "70%"
+      },
+      {
+        "name": "SQL Database",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Web Chat Application (React JS)",
+        "category": "",
+        "image": "whatsapp.jpeg",
+        "url": "https://github.com/TejasGowda713/WebChatAppFinal"
+      },
+      {
+        "title": "Shopping Application (Flutter and Dart)",
+        "category": "",
+        "image": "mapp.png",
+        "url": "https://github.com/TejasGowda713/Shopping-mobile-app-using-Flutter-and-Dart"
+      },
+      {
+        "title": "911 Capstone Project (Data Science using Python)",
+        "category": "",
+        "image": "911.png",
+        "url": "https://github.com/TejasGowda713/Data-Science-Projects"
+      },
+      {
+        "title": "Covid Tracker (React JS)",
+        "category": "",
+        "image": "covid-tracker.png",
+        "url": "https://github.com/TejasGowda713/Covid-Life"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tejas is a smart and a creative person who puts in his complete effort and enjoys what he does. He has a good leadership quality and works well with a team.",
+        "user": "Supreetha H, Software Engineer at Apisero"
+      },
+      {
+        "text": "Tejas is a great developer with creative and artistic ideas who designs a simple yet amazing websites.",
+        "user": "Surya G, Software Engineer at Apisero"
+      }
+    ]
+  }
+}
